@@ -118,15 +118,11 @@
 
 ---
 
-### `> snake.sh`
+### `> trophies.sh`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranklinAGK/FranklinAGK/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranklinAGK/FranklinAGK/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FranklinAGK/FranklinAGK/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+[![trophy](https://github-profile-trophy.vercel.app/?username=FranklinAGK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
