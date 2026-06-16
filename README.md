@@ -15,8 +15,6 @@
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
-
 ### `> about_me.json`
 
 ```json
@@ -36,8 +34,6 @@
   "available_for": "Freelance & Collaborations"
 }
 ```
-
-<br clear="right"/>
 
 ---
 
