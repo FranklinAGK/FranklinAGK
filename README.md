@@ -24,7 +24,6 @@
   "name": "Franklin Ejike",
   "role": "Full-Stack & Mobile Developer",
   "company": "Vertexhub Software",
-  "location": "New Jersey, USA 📍",
   "focus": [
     "Mobile Apps (iOS & Android)",
     "AI Development & LLM Integration",
